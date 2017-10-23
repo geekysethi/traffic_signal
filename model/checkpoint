@@ -1,0 +1,2 @@
+model_checkpoint_path: "/output/trafficsignal-0.001-2conv_basic.model"
+all_model_checkpoint_paths: "/output/trafficsignal-0.001-2conv_basic.model"
