@@ -20,4 +20,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Results
 ![0](https://github.com/geekysethi/traffic_signal/blob/master/results/0.png)
-![0](https://github.com/geekysethi/traffic_signal/blob/master/results/18.png)
+![1](https://github.com/geekysethi/traffic_signal/blob/master/results/18.png)
+
+![2](https://github.com/geekysethi/traffic_signal/blob/master/results/39.png)
+
+![3](https://github.com/geekysethi/traffic_signal/blob/master/results/42.png)
+
